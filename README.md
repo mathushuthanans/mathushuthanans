@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Back-end Projects
 - 📫 How to reach me: through X (@mathushuthanans)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: You can't be slower than me and snail.
+- ⚡ Fun fact: You can't be slower than me and a snail.
 
 <!---
 mathushuthanans/mathushuthanans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
