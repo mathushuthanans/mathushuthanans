@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mathushuthanans
-- 👀 I’m interested in Back-end developement
-- 🌱 I’m currently learning Spring Framework and DSA
+- 👋 Hi, I’m Mathushuthanan Chhakravarthy Srinivasan
+- 👀 I’m interested in Back-end and Cloud Development
+- 🌱 I’m currently learning Spring Framework, GoFiber and Cloud
 - 💞️ I’m looking to collaborate on Back-end Projects
 - 📫 How to reach me: through X (@mathushuthanans)
 - 😄 Pronouns: he/him
